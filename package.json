@@ -1,0 +1,22 @@
+{
+  "name": "voice-command-phone-to-laptop-local",
+  "version": "1.0.0",
+  "description": "Local voice command system from phone to laptop using Node.js, Express, and Socket.IO.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "voice",
+    "speech-recognition",
+    "socket.io",
+    "express",
+    "local"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
